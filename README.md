@@ -5,6 +5,10 @@ A quick and dirty "flat" (but somewhat bouncy!) button. MIT license, [Safety not
 ![Screenshot of Button](https://dl.dropboxusercontent.com/u/1512544/Demo/button.png)
 
 ## How to use
+### Files
+1. You only need the `JTFlatButton.h` and `JTFlatButton.m` files. Copy them into your project.
+
+### Code
 ```
 	JTFlatButton *button = [JTFlatButton flatButton];
 	
