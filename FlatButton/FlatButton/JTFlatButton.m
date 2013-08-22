@@ -25,6 +25,30 @@
 	return self;
 }
 
+- (void)setButtonColor:(UIColor *)buttonColor
+{
+	_buttonColor = buttonColor;
+	[self setNeedsDisplay];
+}
+
+- (void)setSideColor:(UIColor *)sideColor
+{
+	_sideColor = sideColor;
+	[self setNeedsDisplay];
+}
+
+- (void)setCornerRadius:(CGFloat)cornerRadius
+{
+	_cornerRadius = cornerRadius;
+	[self setNeedsDisplay];
+}
+
+- (void)setDepth:(CGFloat)depth
+{
+	_depth = depth;
+	[self setNeedsDisplay];
+}
+
 - (void)setSelected:(BOOL)selected
 {
 	[super setSelected:selected];
