@@ -1,5 +1,5 @@
 # JTFlatButton
-A quick and dirty "flat" (but somewhat bouncy!) button. MIT license, [http://timetraveler.ytmnd.com/](Safety not Guaranteed).
+A quick and dirty "flat" (but somewhat bouncy!) button. MIT license, (Safety not Guaranteed)[http://timetraveler.ytmnd.com/].
 
 ## Screenshot
 ![Screenshot of Button](https://dl.dropboxusercontent.com/u/1512544/Demo/button.png)
